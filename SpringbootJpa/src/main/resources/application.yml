@@ -1,6 +1,6 @@
 spring:
   datasource:
-    password: '******'
+    password: 'itachi'
     url: jdbc:mysql://localhost:3306/veeru
     username: root
   jpa:
